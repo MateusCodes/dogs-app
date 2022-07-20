@@ -9,3 +9,8 @@
 .footer p {
   margin-top: 1rem;
 }
+
+.footer a {
+  color: #764701;
+  margin-right: 10px;
+}
